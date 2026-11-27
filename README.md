@@ -105,7 +105,7 @@ closed_image = cv2.morphologyEx(image, cv2.MORPH_CLOSE, kernel)
 
 ## Input Text With Image:
 
-<img width="472" height="502" alt="image" src="https://github.com/user-attachments/assets/2bf6c01a-7efb-4739-97cd-93f44e1a7bd0" />
+<img width="458" height="497" alt="image" src="https://github.com/user-attachments/assets/c23483d6-16d8-4add-8a0c-aa2014330716" />
 
 ## Opening Operation:
 
@@ -115,7 +115,7 @@ closed_image = cv2.morphologyEx(image, cv2.MORPH_CLOSE, kernel)
 * Thin protrusions and isolated pixels are eliminated.
 * Object boundaries become smoother.
 
-<img width="471" height="497" alt="image" src="https://github.com/user-attachments/assets/407ea399-5215-4510-8b64-fc4310a54f46" />
+<img width="458" height="497" alt="image" src="https://github.com/user-attachments/assets/c699b53e-25f4-4b87-8e07-1abbefb76cbf" />
 
 ## Closing Operation:
 
